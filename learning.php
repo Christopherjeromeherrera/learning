@@ -3,7 +3,8 @@
 <body>
 <link rel="stylesheet" type='text/css' href='background.css'>
     <header>
-    <h1> This is my learning area</h1>
+        <h1>Chris J. Herrera</h1>
+        <h2> This is my learning area</h2>
     </header>
     <section>
 
