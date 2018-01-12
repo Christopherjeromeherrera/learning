@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <title>about me</title>
     <link rel="stylesheet" href="style.css">
 <body>
     <header>
