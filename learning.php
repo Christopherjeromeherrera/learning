@@ -21,21 +21,25 @@
 <iframe width="554" height="360" src="https://www.youtube.com/embed/kVPN0w1BWQw" frameborder="0"
         allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-    <footer>
-        Built by CJH Inc.
-    </footer>
-<p>Click below for a good laugh!!! </p>
-    <a href="https://www.youtube.com/watch?v=wXQUhX89vtQ">Meow</a>
+<p>Click below for a good laugh!!!</p>
+<a href="https://www.youtube.com/watch?v=wXQUhX89vtQ">Meow</a>
+
+<div>
+    <audio controls>
+        Your browser does not support the <code>audio</code> element.
+        <source src="Star Trek TOS  Original theme.mp3">
+    </audio>
+</div>
+
+<footer>
+    Built by CJH Inc.
+</footer>
+
 <div class="wrapper">
     <div class="message">
         <h1>Responsive background</h1>
         <p>With thanks to http://sixrevisions.com/css/responsive-background-image/ and 500px</p>
     </div>
-    <audio controls>
-        Your browser does not support the <code>audio</code> element.
-        <source src="Star Trek TOS  Original theme.mp3">
-    </audio>
-
 </body>
 </html>
 
