@@ -9,7 +9,7 @@
 
 <p>Today I began to read CH 3. Intro to PHP</p>
 <ul>
-    <li><em>Topics</em><br>Basic Syntax, Variables and Arrays.</li>
+    <li><em>Topics 1/11/2018</em><br>Basic Syntax, Variables and Arrays.</li>
 </ul>
         </section>
 <div>
