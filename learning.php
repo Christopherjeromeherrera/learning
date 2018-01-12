@@ -18,6 +18,9 @@
 
 <img src="Git%20Fire.jpg">
 
+<iframe width="554" height="360" src="https://www.youtube.com/embed/kVPN0w1BWQw" frameborder="0"
+        allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
     <footer>
         Built by CJH Inc.
     </footer>
@@ -28,7 +31,7 @@
         <h1>Responsive background</h1>
         <p>With thanks to http://sixrevisions.com/css/responsive-background-image/ and 500px</p>
     </div>
-    <audio controls autoplay>
+    <audio controls>
         Your browser does not support the <code>audio</code> element.
         <source src="Star Trek TOS  Original theme.mp3">
     </audio>
