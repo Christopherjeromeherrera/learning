@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="style.css">
 <body>
     <header>
     <h1> This is my learning area</h1>
@@ -15,7 +15,7 @@
 </ul>
         </section>
 <div>
-    <p>I am going to continue my work tomorrow with more hands on learning using PHP and start cleaning up my Github</p>
+    <p>I am going to continue my work tomorrow with more hands-on learning using PHP and start cleaning up my Github</p>
 </div>
 
 <img src="Git%20Fire.jpg">
@@ -25,7 +25,6 @@
     </footer>
 <p>Click below for a good laugh!!! </p>
     <a href="https://www.youtube.com/watch?v=wXQUhX89vtQ">Meow</a>
-
 </body>
 </html>
 
