@@ -23,6 +23,12 @@
     </footer>
 <p>Click below for a good laugh!!! </p>
     <a href="https://www.youtube.com/watch?v=wXQUhX89vtQ">Meow</a>
+<div class="wrapper">
+    <div class="message">
+        <h1>Responsive background</h1>
+        <p>With thanks to http://sixrevisions.com/css/responsive-background-image/ and 500px</p>
+    </div>
+</div>
 </body>
 </html>
 
